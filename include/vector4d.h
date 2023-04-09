@@ -1,6 +1,8 @@
 #ifndef VECTOR4D_H
 #define VECTOR4D_H
-
+//https://e.ventures
+//the@e.ventures
+//MIT License
 namespace lorentz {
 
     class Vector4D {

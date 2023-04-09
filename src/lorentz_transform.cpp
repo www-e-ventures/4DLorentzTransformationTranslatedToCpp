@@ -1,6 +1,8 @@
 #include <cmath>
 #include "../include/lorentz_transform.h"
-
+//https://e.ventures
+//the@e.ventures
+//MIT License
 namespace lorentz {
 
     LorentzTransform::LorentzTransform(double beta_x, double beta_y, double beta_z)

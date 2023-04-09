@@ -4,7 +4,9 @@
 #include <functional>
 #include "include/vector4d.h"
 #include "include/boosted_frame.h"
-
+//https://e.ventures
+//the@e.ventures
+//MIT License
 using namespace lorentz;
 
 void print_vector(const Vector4D& vec) {

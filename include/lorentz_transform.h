@@ -1,6 +1,8 @@
 #ifndef LORENTZ_TRANSFORM_H
 #define LORENTZ_TRANSFORM_H
-
+//https://e.ventures
+//the@e.ventures
+//MIT License
 #include "../include/vector4d.h"
 
 namespace lorentz {

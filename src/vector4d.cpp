@@ -1,5 +1,7 @@
 #include "../include/vector4d.h"
-
+//https://e.ventures
+//the@e.ventures
+//MIT License
 namespace lorentz {
 
     Vector4D::Vector4D(double ct, double x, double y, double z)

@@ -1,6 +1,8 @@
 #ifndef BOOSTED_FRAME_H
 #define BOOSTED_FRAME_H
-
+//https://e.ventures
+//the@e.ventures
+//MIT License
 #include "../include/lorentz_transform.h"
 
 namespace lorentz {
